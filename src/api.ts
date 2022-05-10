@@ -5,7 +5,7 @@ interface IMovie {
     id: number;
     backdrop_path: string;
     poster_path: string;
-    titie: string;
+    title: string;
     overview: string;
 }
 
